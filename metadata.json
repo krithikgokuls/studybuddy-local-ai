@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy",
+  "description": "An AI study companion for students and friends, offering simple explanations, flashcards, quizes, and personalized study plans with a privacy-first local AI focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
